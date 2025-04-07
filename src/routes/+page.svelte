@@ -1,35 +1,40 @@
 <section>
     <h2>welcome</h2>
     <p>
-        Hello and welcome to my website. It's perpetually under construction. It should
-        work, display, and function properly on phones but I can't promise
-        anything...
-        I'd say it's best viewed in a Chromium browser but Firefox should be ok too.
+        Hello and welcome to my website. I reccommend using a dekstop to view it. It's made to keep my art and 
+        ramblings and whatever else I choose to put on it. Your problems are not my own and I can think for myself.
+        I will not abide by your statements unless I agree with them.
         <br>
-        Also fuck tablet users you don't get anything special. (Use landscape mode)
         <br>
-        Thank you for visiting and enjoy your stay! (or don't)
+        The guy in the bottom left was originally going to be a "return to top" button but I don't think that'd really
+        be an issue. He's going to stay though because I love him. He's my first born son and his name is Reid. I draw
+        portraits of him a lot. In fact it's almost all I draw but I'm trying to get better at drawing fullbodies and 
+        stuff. Yay. Regardless there's probably going to be a lot of art of him. 
+        <br>
+        <br>
+        Also ignore the "barren" sidebar I have no idea what else to put there aside from navigation... I'll decide
+        soon though just gimmie a minute!
     </p>
-</section>
-<section>
-    <h2>featured</h2>
-    <div>
-        <figure class = "float-right">
-            <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Heterohyus_4939.jpg/800px-Heterohyus_4939.jpg" alt = "placeholder">
-            <figcaption>placeholder...</figcaption>
-        </figure>
-        <p>
-            I don't have anything to put here really BUT this skeleton looks pretty cool.
-            It is a... uh... "Euarchontoglire", which is the group where Treeshrews, Colugos,
-            Primates, and Glires come together. I've been looking at the recently for
-            worldbuilding purposes because I'm actually awesome and super cool.
-            Originally I had one of the sophonts descend from rabbits but then I remembered
-            that I don't want people to think I'm a furry so I went with making them weird
-            Euarchontoglire descendants instead. Because then I can say they're close enough
-            to monkies or something. I also wanted them to have canines. As in canine teeth.
-            Because canine teeth are pretty awesome yk. Canine teeth as in the canines not as
-            in dogs. I also can't really get this to float how I want it to float so that's also
-            why it's here. For testing purposes. Yay. They're euthanising me on Wednesday.
-        </p>
-    </div>
+    Before you wander off to other parts of the site please note:
+        <ul>
+            <li>
+                The code for this site is very messy and needs to be "Cleaned up"
+            </li>
+            <li>
+                There may be discussion of sensitive topics
+            </li>
+            <li>
+                I'm very slow and probably illiterate (Please disregard typos)
+            </li>
+            <li>
+                Art might have nudity or gore but not at the moment
+            </li>
+            <li>
+                Everything is subdue to deletion, especially if I regret it enough
+            </li>
+            <li>
+                The version you see now is by no means final, and is only up for testing purposes. This is the only
+                extant page as of typing.
+            </li>
+        </ul>
 </section>
